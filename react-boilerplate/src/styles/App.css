@@ -1,0 +1,100 @@
+form {
+    /*
+    font-family: Console;
+    font-size: 10pt;
+    margin-top: 10px;
+    background-color:#c8c8c8;
+    border: solid 1px #b6b6b6;
+    padding: 10px;
+*/
+}
+
+form label {
+/*
+    text-align:  right;
+    padding-right: 10px;
+    width: 80px;
+*/
+}
+
+form input {
+  /*  width: 300px; */
+}
+
+form label, form input {
+/*
+    display: block;
+    float: left;
+    margin-bottom: 10px;
+*/
+}
+
+nav ul {
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #27aedb;
+}
+
+nav ul li {
+    float: left;
+    padding: 5px;
+  }
+  
+
+button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+button {
+    background-color: #e7e7e7; 
+    color: black;
+    font-family: monospace;
+    border-radius: 12px;
+}
+
+input {
+
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  
+}
+
+h1 {
+    color: #27aedb;
+    text-align: center;
+}
+.red-info {
+    color: rgb(189, 33, 33);
+}
+
+.green-info {
+    color: rgb(100, 250, 100);
+}
+
+.visible {
+    display: block;
+}
+
+.hidden {
+    display: none;
+}
+
+body {
+    font-family: monospace;
+    font-size:16px;
+}
+
+.header-info{
+    font-size: 16px;
+  font-family: monospace;
+}
